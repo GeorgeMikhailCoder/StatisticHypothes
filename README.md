@@ -46,4 +46,6 @@ alpha=0.05;
 fprintf('\nКритерий Кендала:\n');
 Kendal(x,y,H1,alpha);
 ```
- ![image](https://user-images.githubusercontent.com/47564437/109806469-ced35780-7c35-11eb-99f2-20b5b73f0762.png)
+ ![image](https://user-images.githubusercontent.com/47564437/109806469-ced35780-7c35-11eb-99f2-20b5b73f0762.png)  
+  
+ Больше примеров на каждую функцию можно посмотреть в файле A_launcher.
